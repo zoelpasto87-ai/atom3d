@@ -1,0 +1,6 @@
+{
+  "name": "ATOM 3D — Interactive Periodic Table",
+  "description": "Tabel Periodik Unsur interaktif, modern, dan edukatif dengan 118 unsur kimia lengkap, konfigurasi elektron, distribusi kulit atom, dan mode belajar kimia SMA. Design by ZP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
